@@ -1,0 +1,10 @@
+def funcion1(parametro1,parametro2,parametro3,parametro4):
+    suma= int(parametro1) + int(parametro2) + int(parametro3) + int(parametro4)
+    return suma
+
+p1=input('Introduce parámetro 1:')
+p2=input('Introduce parámetro 2:')
+p3=input('Introduce parámetro 3:')
+p4=input('Introduce parámetro 4:')
+
+print(funcion1(p1,p2,p3,p4))
