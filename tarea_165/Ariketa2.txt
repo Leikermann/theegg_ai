@@ -1,2 +1,0 @@
-frase=input('Introduce una frase para calcular su longitud :')
-print('La longitud de la frase es de ' + str(len(frase)) + ' caracteres')
