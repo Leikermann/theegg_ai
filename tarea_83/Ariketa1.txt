@@ -1,0 +1,4 @@
+n1=input('Introduce la medida del lado del cuadrado  ')
+print('La medida introducida es  ' + n1)
+multi=int(n1)int(n1)
+print('La superficie de dicho cuadrado es  ' + str(multi) )
