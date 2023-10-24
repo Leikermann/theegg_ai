@@ -1,0 +1,6 @@
+letra=input("Escribe un carácter y te diré si es vocal o no :")
+print(letra)
+if letra.lower() in ('aeiouáéíóúàèìòùü'):
+    print('El carácter introducido ' + letra + ' es una vocal')
+else:
+    print('El carácter introducido ' + letra + ' es una consonante')
